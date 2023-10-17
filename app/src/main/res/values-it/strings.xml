@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">orologio</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ciao frammento vuoto</string>
+    <string name="home">Casa</string>
+    <string name="set_alarm_and_see_world_clock">Imposta la sveglia e visualizza l\'orologio mondiale</string>
+    <string name="world_clock">OROLOGIO MONDIALE</string>
+    <string name="alarm">ALLARME</string>
+    <string name="set_new_alarm">IMPOSTA NUOVA SVEGLIA</string>
+    <string name="once">una volta</string>
+    <string name="stop">fermare</string>
+    <string name="slash">:</string>
+    <string name="alarm_clock">Sveglia</string>
+    <string name="see_more">Vedi altro</string>
+    <string name="world_clock2">Orologio mondiale</string>
+</resources>

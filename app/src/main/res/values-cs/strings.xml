@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">hodinář</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Ahoj prázdný fragment</string>
+    <string name="home">Domov</string>
+    <string name="set_alarm_and_see_world_clock">Nastavte budík a uvidíte světový čas</string>
+    <string name="world_clock">SVĚTOVÉ HODINY</string>
+    <string name="alarm">POPLACH</string>
+    <string name="set_new_alarm">NASTAVTE NOVÝ ALARM</string>
+    <string name="once">jednou</string>
+    <string name="stop">stop</string>
+    <string name="slash">:</string>
+    <string name="alarm_clock">Budík</string>
+    <string name="see_more">Vidět víc</string>
+    <string name="world_clock2">Světové hodiny</string>
+</resources>

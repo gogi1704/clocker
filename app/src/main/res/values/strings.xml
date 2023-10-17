@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">clocker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="set_alarm_and_see_world_clock">Set Alarm and See World Clock</string>
+    <string name="world_clock">WORLD CLOCK</string>
+    <string name="alarm">ALARM</string>
+    <string name="set_new_alarm">SET NEW ALARM</string>
+    <string name="once">once</string>
+    <string name="stop">stop</string>
+    <string name="slash">:</string>
+    <string name="alarm_clock">Alarm clock</string>
+    <string name="see_more">See more</string>
+    <string name="world_clock2">World clock</string>
+</resources>

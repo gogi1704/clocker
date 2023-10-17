@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clocker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+    <string name="home">Heim</string>
+    <string name="set_alarm_and_see_world_clock">Stellen Sie den Alarm ein und sehen Sie die Weltzeituhr</string>
+    <string name="world_clock">WELTUHR</string>
+    <string name="alarm">ALARM</string>
+    <string name="set_new_alarm">NEUEN ALARM EINSTELLEN</string>
+    <string name="once">einmal</string>
+    <string name="stop">stoppen</string>
+    <string name="slash">:</string>
+    <string name="alarm_clock">Wecker</string>
+    <string name="see_more">Mehr sehen</string>
+    <string name="world_clock2">Weltuhr</string>
+</resources>

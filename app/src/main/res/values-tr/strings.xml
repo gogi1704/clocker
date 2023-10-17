@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">saatçi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Merhaba boş parça</string>
+    <string name="home">Ev</string>
+    <string name="set_alarm_and_see_world_clock">Alarmı Ayarla ve Dünya Saatini Gör</string>
+    <string name="world_clock">DÜNYA SAATİ</string>
+    <string name="alarm">ALARM</string>
+    <string name="set_new_alarm">YENİ ALARM AYARLA</string>
+    <string name="once">bir kere</string>
+    <string name="stop">durmak</string>
+    <string name="slash">:</string>
+    <string name="alarm_clock">Alarm saati</string>
+    <string name="see_more">Daha fazla gör</string>
+    <string name="world_clock2">Dünya Saati</string>
+</resources>

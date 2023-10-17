@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">relojero</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola fragmento en blanco</string>
+    <string name="home">Hogar</string>
+    <string name="set_alarm_and_see_world_clock">Configurar alarma y ver el reloj mundial</string>
+    <string name="world_clock">RELOJ MUNDIAL</string>
+    <string name="alarm">ALARMA</string>
+    <string name="set_new_alarm">ESTABLECER NUEVA ALARMA</string>
+    <string name="once">una vez</string>
+    <string name="stop">detener</string>
+    <string name="slash">:</string>
+    <string name="alarm_clock">Despertador</string>
+    <string name="see_more">Ver más</string>
+    <string name="world_clock2">Reloj mundial</string>
+</resources>
